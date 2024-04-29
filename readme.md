@@ -7,7 +7,7 @@
 ## Tecnologias Utilizadas
 - Linguagem de Programação: [JavaScript]
 - Framework de Desenvolvimento: [React Native]
-- APIs:
+- APIs:<br>
   `1. API de Geocodificação:`(https://geocoding-api.open-meteo.com/v1/search)<br>
   `2. API de Previsão do Tempo:`(https://api.open-meteo.com/v1/forecast)
 
